@@ -10,10 +10,15 @@ If yes then is that locality populated by a particular sect of people for eg. Ja
 mostly vegetarian. These kind of analysis can be done using the data, by studying the factors such as
 
 • Location of the restaurant
+
 • Approx Price of food
+
 • Theme based restaurant or not
+
 • Which locality of that city serves that cuisines with maximum number of restaurants
+
 • The needs of people who are striving to get the best cuisine of the neighborhood
+
 • Is a particular neighborhood famous for its own kind of food.
 
 
